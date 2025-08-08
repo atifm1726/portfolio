@@ -49,13 +49,15 @@ with col_d:
 
 st.markdown("---")
 
-# Resume download section (disabled until resume is uploaded)
-# with open("assets/Atif_Aziz_Memon_Resume.pdf", "rb") as file:
-#     st.download_button(
-#         label="📄 Download My Resume",
-#         data=file,
-#         file_name="Atif_Aziz_Memon_Resume.pdf",
-#         mime="application/pdf"
-#     )
+with open("AtifAzizMemon - Memon.pdf", "rb") as file:
+    resume_bytes = file.read()
 
-st.info("📄 Resume download will be available once the file is uploaded.")
+st.download_button(
+    label="📄 Download My Resume",
+    data=resume_bytes,
+    file_name="Atif_Memon_Resume.pdf",
+    mime="application/pdf"
+)
+
+
+
