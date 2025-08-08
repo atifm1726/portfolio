@@ -17,11 +17,14 @@ I thrive on turning raw data into impactful insights and building tools that mak
 
 st.markdown("**🔑 Key Skills:**")
 st.markdown("""
-- 🐍 Python, SQL, R  
-- 📊 Data Visualization (Plotly, Streamlit, Power BI)  
-- 🤖 Machine Learning (scikit-learn, DeepFace)  
-- 🗃️ Database Management (Oracle, PostgreSQL, PL/SQL)  
+- 🐍 **Python for Data Science** (pandas, NumPy, matplotlib, Streamlit, scikit-learn)  
+- 🧠 Machine Learning (classification, regression, DeepFace, model evaluation)  
+- 📊 Data Visualization (Power BI, Plotly, Streamlit)  
+- 🗃️ Database Management (Oracle, PL/SQL, SQL query optimization)  
+- 📋 Data Cleaning & ETL (data wrangling, automation, pipeline design)  
+- 🔍 Statistical Analysis (hypothesis testing, correlation, regression modeling)
 """)
+
 
 st.markdown("**🏢 Previously at NayaPay** — I managed financial databases, automated ETL pipelines, and optimized queries as a **Database Administrator**.")
 
