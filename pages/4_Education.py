@@ -9,18 +9,17 @@ st.subheader("📘 Master of Science in Data Analytics")
 st.write("""
 **Institution:** University of Illinois Springfield  
 **GPA:** 4.0 / 4.0  
-**Duration:** 2023 – Present (Expected Graduation: May 2025)
+**Duration:** 2024 – Present (Expected Graduation: May 2026)
 
 **Relevant Coursework:**
-- Machine Learning & Predictive Modeling
-- Statistical Inference and Regression Analysis
-- Big Data Tools (Hadoop, Spark)
+- Machine Learning 
+- Advanced Statistical Methods
+- Big Data 
 - Data Visualization with Python & R
-- Business Analytics and Reporting
+
 
 **Projects:**
 - Mental Health ML Classifier
-- Big Data Pipeline using PySpark
 - Streamlit dashboard for survey analysis
 """)
 
