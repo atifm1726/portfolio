@@ -11,7 +11,7 @@ st.write("""
 **Duration:** Jan 2022 – June 2023  
 
 **Responsibilities:**
-- Designed, maintained, and optimized relational databases (Oracle & PostgreSQL)
+- Designed, maintained, and optimized relational databases (Oracle, MySQL, SQL Server)
 - Wrote, debugged, and tuned complex SQL queries for high-volume financial transactions
 - Collaborated with developers and QA teams on schema changes and deployment cycles
 - Scheduled and managed daily backup routines using PL/SQL and cron jobs
