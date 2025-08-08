@@ -8,7 +8,7 @@ st.markdown("Here’s an overview of my work experience and the impact I created
 st.subheader("📌 NayaPay — Database Administrator")
 st.write("""
 **Location:** Karachi, Pakistan  
-**Duration:** Jan 2022 – June 2023  
+**Duration:** Jan 2023 – Aug 2024  
 
 **Responsibilities:**
 - Designed, maintained, and optimized relational databases (Oracle, MySQL, SQL Server)
