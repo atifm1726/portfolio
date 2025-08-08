@@ -49,7 +49,7 @@ with col_d:
 
 st.markdown("---")
 
-with open("AtifAzizMemon - Resume.pdf", "rb") as file:
+with open("atif_memon_resume.pdf", "rb") as file:
     resume_bytes = file.read()
 
 st.download_button(
