@@ -17,15 +17,21 @@ st.write("""
 - Big Data 
 - Data Visualization with Python & R
 
-
 **Projects:**
 - Mental Health ML Classifier
 - Streamlit dashboard for survey analysis
 """)
 
-st.subheader("📗 Bachelor of Science (Optional Entry)")
+st.subheader("📗 Bachelor of Science in Computer Science")
 st.write("""
-If you want to include bachelor's or any certification (Coursera, Udemy, etc.), let me know and I’ll format this section too.
+**Institution:** Shaheed Zulfikar Ali Bhutto Institute of Science and Technology (SZABIST)  
+**CGPA:** 3.1 / 4.0  
+**Duration:** 2018 - 2022
+
+**Relevant Coursework:**
+- Database Management Systems  
+- Object Oriented Programming  
+- Data Science  
 """)
 
 # Back button
